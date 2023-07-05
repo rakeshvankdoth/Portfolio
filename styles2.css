@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.profile{
+    text-align: center;
+}
+h1{
+    color: saddlebrown;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    padding: 0;
+}
+h2{
+    color: saddlebrown;
+}
+h3{
+    color: darkcyan;
+}
+.top{
+    background-color: #AFD3E2;
+    height: 650px;
+    margin: 0;
+   
+    
+}
+.mountain{
+    margin: 150px;
+    height: 450px;
+    width: 450px;
+    position: relative;
+    bottom: 200px;
+    left: 50px;
+}
+.topcloud{
+    position: relative;
+    left: 150px;
+}
+.bottomcloud{
+    position: relative;
+    bottom: 650px;
+    right: 550px;
+}
+.pic{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+.skill-row{
+    width: 50%;
+    margin:50px auto ;
+    text-align: left;
+    line-height: 2;
+}
+.pc{
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+.chilli{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.contact{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #4eb0f2;
+    background-image: -webkit-linear-gradient(top, #4eb0f2, #7193a8);
+    background-image: -moz-linear-gradient(top, #4eb0f2, #7193a8);
+    background-image: -ms-linear-gradient(top, #4eb0f2, #7193a8);
+    background-image: -o-linear-gradient(top, #4eb0f2, #7193a8);
+    background-image: linear-gradient(to bottom, #4eb0f2, #7193a8);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #9a9ad9;
+    background-image: -webkit-linear-gradient(top, #9a9ad9, #5f4b94);
+    background-image: -moz-linear-gradient(top, #9a9ad9, #5f4b94);
+    background-image: -ms-linear-gradient(top, #9a9ad9, #5f4b94);
+    background-image: -o-linear-gradient(top, #9a9ad9, #5f4b94);
+    background-image: linear-gradient(to bottom, #9a9ad9, #5f4b94);
+    text-decoration: none;
+  }
+.bottom-container{
+    margin-top: 50px;
+}
+hr { 
+    margin: 60px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 7px;
+    width: 10%;
+}
